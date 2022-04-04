@@ -3,7 +3,6 @@
 <div Center>- 💻Sou um Programador em Treinamento💻 </div>
 <div Center>- 🙌Estudante C# e Banco de Dados SQL🙌 </div>
 <div Center>- Pretendo aprender e me aperfeiçõar em Web e Desktop </div>
-<div Center>- Futuro programador de renome! </div>
 
 ##
 
