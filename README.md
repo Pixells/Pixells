@@ -18,11 +18,11 @@
 
 #
 
-<ul align="center" style="font-family: cursive, sans-serif; list-style-position: inside;">
-    <li>💡 Explorando novas tecnologias e desenvolvendo soluções de software.</li>
-    <li>🚀 Quero me desenvolver na tecnologia aprendendo o fullstacks</li>
-    <li>📚 Quero aprender também : IA, Realidade Aumentada, redes e CyberSegurança</li>
-</ul>
+<div align="center" style="font-family: cursive, sans-serif; list-style-position: inside;">
+    <p>💡 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
+    <p>🚀 Quero me desenvolver na tecnologia aprendendo o fullstacks</p>
+    <p>📚 Quero aprender também : IA, Realidade Aumentada, redes e CyberSegurança</p>
+</div>
 
 
 <div align="center">
