@@ -1,7 +1,3 @@
-<div align="center">
-    <img width="150px" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="imagem de um hacker"></img>
-</div>
-
 <h1 align="center" style="font-family: cursive, sans-serif;"><i> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="25px"></img> Bem Vindo ao meu GitHub <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="25px"></img></i></h1>
 
 <p align="center" style="font-family: cursive, sans-serif;"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="15px"><i> Em busca do Fullstack </i><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="15px"></img></p>
