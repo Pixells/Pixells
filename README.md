@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/erik-matheus-881935229/" target="_blank">
+    <a href="[https://www.linkedin.com/in/erik-matheus-881935229/](https://www.linkedin.com/in/dev-erik-matheus/)" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
     </a>
     <a href="https://www.instagram.com/erikmatheusxn/" target="_blank">
