@@ -1,4 +1,8 @@
-<h1 align="center" style="font-family: cursive, sans-serif;"><i> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="25px"></img> Bem Vindo ao meu GitHub <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="25px"></img></i></h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=0e76a8)<br/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+👋;+Sou+Erik+Matheus!;" />
+</h1>
 
 <p align="center" style="font-family: cursive, sans-serif;"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="15px"><i> Em busca do Fullstack </i><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="15px"></img></p>
 
@@ -70,3 +74,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Gif Mario no PC" align="center" play></img>
 
 <hr>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=EA1D2C&section=footer)
