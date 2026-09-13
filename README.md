@@ -43,6 +43,10 @@
 
 <div style="display: inline_block" align="center">
     <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA">
+    <img align="center" src="https://img.shields.io/badge/UML-Unified_Modeling_Language-007ACC?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="UML">
+    <img align="center" src="https://img.shields.io/badge/JDBC-Java_Database_Connectivity-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC">
+    <img align="center" src="https://img.shields.io/badge/JPA-Java_Persistence_API-59666C?style=for-the-badge&logo=java&logoColor=white" alt="JPA">
+    <img align="center" src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate">
     <img align="center" src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON">
     <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="SPRINGBOOT">
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
